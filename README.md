@@ -16,7 +16,7 @@ I'm a passionate **DevOps Engineer** who thrives on automating workflows, optimi
 
 ### 📫 Connect With Me
 - **GitHub:** [@neehadumar](https://github.com/neehadumar)
-- **LinkedIn:** [Neehad (https://www.linkedin.com/in/khondaker-ahmed-neehad-umar-3020aab3/)](#)
+- **LinkedIn:** [(https://www.linkedin.com/in/khondaker-ahmed-neehad-umar-3020aab3/)](#)
 
 ### ⚡ Fun Fact
 I love solving **infrastructure challenges**, experimenting with **new automation tools**, and sharing knowledge with the DevOps community! 🚀
